@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        tools:text="La hora seleccionada es:"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"/>
+
+    <TextView
+        android:id="@+id/notification_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        tools:text="12:00"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30sp"/>
+
+    <Button
+        android:id="@+id/btnAlarm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/big_padding"
+        android:text="@string/btnAlarm"
+        android:textSize="30sp"/>
+
+</LinearLayout>

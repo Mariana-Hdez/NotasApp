@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="add_nota">Agregar nota</string>
+    <string name="hint_nota">Nota...</string>
+    <string name="btn_guarda">Guardar</string>
+    <string name="empty">Nota no guardada, algun campo está vacío</string>
+    <string name="lbl_ti">Titulo...</string>
+    <string name="lbl_de">Descripción...</string>
+    <string name="lbl_fe">Fecha (AAAA-MM-DD)...</string>
+    <string name="lbl_ho">Hora (DD:DD)...</string>
+    <string name="lbl_tarea">Es tarea?</string>
+    <string name="lbl_termin">Está terminada?</string>
+    <string name="btn_tareas">Ir a tareas</string>
+    <string name="btn_notas">Ir a notas</string>
+    <string name="tom_vid">+Video</string>
+    <string name="tom_foto">+Foto</string>
+    <string name="gb_audio">+Audio</string>
+    <string name="btn_notifs">+Recordatorio</string>
+    <string name="btnNot">Agregar Notificación</string>
+    <string name="btnAlarm">Agregar Alarma</string>
+    <string name="titulo_rec">Recordatorio</string>
+    <string name="channel_name">Recordatorios</string>
+    <string name="channel_description">Recordatorios de tareas</string>
+    <string name="cad_buscar">Buscar</string>
+    <string name="cad_eliminar">Borrar</string>
+    <string name="grabar">Grabar</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="consultar">Consultar Media Video</string>
+    <string name="saf">SAF</string>
+    <string name="cad_editar">Editar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

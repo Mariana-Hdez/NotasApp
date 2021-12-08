@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="grabar">Grabar</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="consultar">Consultar Media Video</string>
+    <string name="saf">SAF</string>
+    <string name="add_nota">Add note</string>
+    <string name="hint_nota">Note...</string>
+    <string name="btn_guarda">Save</string>
+    <string name="empty">Note not saved, empty parameter</string>
+    <string name="lbl_ti">Title...</string>
+    <string name="lbl_de">Description...</string>
+    <string name="lbl_fe">Date (YYYY-MM-DD)...</string>
+    <string name="lbl_ho">Hour (DD:DD)...</string>
+    <string name="lbl_tarea">It´s Homework?</string>
+    <string name="lbl_termin">It´s finished?</string>
+    <string name="btn_tareas">See HW</string>
+    <string name="btn_notas">See notes</string>
+    <string name="tom_vid">+Video</string>
+    <string name="tom_foto">+photo</string>
+    <string name="btn_notifs">Add reminder</string>
+    <string name="btnNot">Add notification</string>
+    <string name="btnAlarm">Add Alarm</string>
+    <string name="titulo_rec">Reminder</string>
+    <string name="channel_name">Recordatorios</string>
+    <string name="channel_description">Recordatorios de tareas</string>
+    <string name="cad_buscar">Search for</string>
+    <string name="cad_eliminar">Delete</string>
+    <string name="cad_editar">Edit</string>
+    <string name="gb_audio">+Audio</string>
+</resources>

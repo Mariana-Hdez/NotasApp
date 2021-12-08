@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout-w600dp/fragment_dashboard.xml" value="0.1728395061728395" />
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout/activity_main.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout/activity_new_nota.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout/fragment_multimedia.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout/inicio_ventana.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout/muestra_nota.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout/notificaciones.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout/recyclerview_item.xml" value="0.1802536231884058" />
+        <entry key="..\:/Users/Mariana Hdez/AndroidStudioProjects/NotasApp/app/src/main/res/layout/tomar_foto.xml" value="0.1802536231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
